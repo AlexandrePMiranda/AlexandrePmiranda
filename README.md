@@ -10,7 +10,7 @@ Also I'm learning about java, angular, html and css as well.
 - PolygonAreaCalculator:https://github.com/AlexandrePMiranda/PolygonAreaCalculator
 - ProbabilityCalculator: https://github.com/AlexandrePMiranda/ProbabilityCalculator
 
-- These mini projects are from a curse that I did, Scientific Computing with Python.
+These mini projects are from a curse that I did, Scientific Computing with Python.
 
 
 
