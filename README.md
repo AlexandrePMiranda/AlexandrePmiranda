@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lucas Andrade</h1>
+<h1 align="center">Hey 👋, I'm Alexandre Miranda</h1>
+
+Hello there! My name is Alexandre, but you can call me Xande, I'm 23 years old. 
+
+Currently I'm work in restaurant business and studying computing science at university.
+Also I'm learning about java, angular, html and css as well.
+
+
+
+
 
 <!--
 **AlexandrePMiranda/AlexandrePmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
