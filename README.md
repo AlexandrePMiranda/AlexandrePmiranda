@@ -5,6 +5,13 @@ Hello there! My name is Alexandre, but you can call me Xande, I'm 23 years old.
 Currently I'm work in restaurant business and studying computing science at university.
 Also I'm learning about java, angular, html and css as well.
 
+### Here are some of projects I made:
+- BudgetApp : https://github.com/AlexandrePMiranda/BudgetApp
+- PolygonAreaCalculator:https://github.com/AlexandrePMiranda/PolygonAreaCalculator
+- ProbabilityCalculator: https://github.com/AlexandrePMiranda/ProbabilityCalculator
+
+- These mini projects are from a curse that I did, Scientific Computing with Python.
+
 
 
 
