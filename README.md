@@ -6,9 +6,9 @@ Currently I'm work in restaurant business and studying computing science at univ
 Also I'm learning about java, angular, html and css as well.
 
 ### Here are some of projects I made:
-- BudgetApp : https://github.com/AlexandrePMiranda/BudgetApp
-- PolygonAreaCalculator:https://github.com/AlexandrePMiranda/PolygonAreaCalculator
-- ProbabilityCalculator: https://github.com/AlexandrePMiranda/ProbabilityCalculator
+- [Budget App](https://github.com/AlexandrePMiranda/BudgetApp)
+- [Polygon Area Calculator](https://github.com/AlexandrePMiranda/PolygonAreaCalculator)
+- [Probability Calculator](https://github.com/AlexandrePMiranda/ProbabilityCalculator)
 
 These mini projects are from a curse that I did, Scientific Computing with Python.
 
