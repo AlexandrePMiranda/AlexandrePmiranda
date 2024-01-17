@@ -1,4 +1,4 @@
-@@ -5,7 +5,7 @@ Hey! I'm Alexandre Miranda, 23
+<h1 align="center">Hi 👋, I'm Lucas Andrade</h1>
 
 <!--
 **AlexandrePMiranda/AlexandrePmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
